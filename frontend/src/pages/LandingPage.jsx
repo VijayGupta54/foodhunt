@@ -9,7 +9,7 @@ const LandingPage = () => {
        <Navbar border="yes" background="blur"/>
        <LandingHero/>
        <div className="overlay"></div>
-       <video src="https://www.pexels.com/download/video/3944327/" muted autoPlay loop></video>
+       <video src="https://www.pexels.com/download/video/3196001/" muted autoPlay loop></video>
      </div>
   )
 }

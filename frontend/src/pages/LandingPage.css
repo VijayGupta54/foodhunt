@@ -15,11 +15,7 @@
 .overlay{
     height: 100%;
     width: 100%;
-    /* background-color: rgba(0, 0, 0, 0.456); */
-    /* background: linear-gradient(to bottom, rgba(0, 0, 0, 0.586), transparent); */
-    /* background: linear-gradient(to bottom, rgba(0, 0, 0, 0.69), transparent); */
-    background: linear-gradient(to bottom, rgba(0, 0, 0, 0.742), rgba(0, 0, 0, 0.222));
-    /* background-color: rgba(0, 0, 0, 0.4); */
+    background: linear-gradient(to bottom, rgba(0, 0, 0, 0.69), transparent);
     inset: 0;
     position: absolute;
     top: 0;

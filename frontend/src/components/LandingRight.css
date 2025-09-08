@@ -11,10 +11,9 @@
     background-color: transparent;
     border: none;
     border-radius: 5px;
-    color: #bc2c2a;
     font-weight: bold;
     font-size: 1em;
-    background-color: #E53935;
+    background-color: #bc2c2a;
     color: rgba(255, 255, 255, 0.801);
     opacity: 0.8;
 }

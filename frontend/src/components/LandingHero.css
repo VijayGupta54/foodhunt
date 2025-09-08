@@ -16,21 +16,21 @@
 .landing-hero-inner-container .heading-1{
     font-size: clamp(2.5rem, 7vw, 4.5rem);
     font-weight: 500;
-    color: rgba(0, 0, 0, 0.744);
     text-align: center;
     text-shadow: 2px 2px 8px rgba(0, 0, 0, 0.7);
     z-index: 3;
+    color: rgba(245, 245, 245, 0.718);
 }
 
 .landing-hero-inner-container .heading-2{
     font-size: clamp(3rem, 8vw, 5rem);
     text-align: center;
     margin-top: 3vh;
-    color: rgba(0, 0, 0, 0.864);
     font-weight: 600;
     margin-bottom: 10vh;
     text-shadow: 2px 2px 8px rgba(0, 0, 0, 0.7);
     z-index: 3;
+    color: rgba(245, 245, 245, 0.718);
 }
 
 .heading-2-reel{
