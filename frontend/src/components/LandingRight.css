@@ -1,0 +1,20 @@
+.landing-right-outer-container{
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-right: 1vw;
+}
+
+.landing-right-outer-container button{
+    padding: 2vh 2.5vw;
+    background-color: transparent;
+    border: none;
+    border-radius: 5px;
+    color: #bc2c2a;
+    font-weight: bold;
+    font-size: 1em;
+    background-color: #E53935;
+    color: rgba(255, 255, 255, 0.801);
+    opacity: 0.8;
+}
