@@ -1,10 +1,10 @@
 import React from 'react';
 import "../components/LandingRight.css";
 
-const LandingRight = () => {
+const LandingRight = ({showLogin}) => {
   return (
     <div className="landing-right-outer-container">
-        <button>Login</button>
+        <button className='login-btn' onClick={showLogin}>Login</button>
     </div>
   )
 }
