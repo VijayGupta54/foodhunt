@@ -37,10 +37,10 @@ const Login = ({closeLogin}) => {
         <div className="login-inner-container" onClick={handleFormClose}>
             <h1>Foodhunt</h1>
             <div className="login-form-container">
-                <form>
+                <form onSubmit={handleFormSubmit}>
                     <input type="email" placeholder='Email' name='email' value={loginFormDetails.email} onChange={handleInputChange} required/>
                     <input type="password" placeholder='Password' name='password' value={loginFormDetails.password} onChange={handleInputChange} required/>
-                    <button className='login-btn' onClick={handleFormSubmit}>Login</button>
+                    <button className='login-btn'>Login</button>
                 </form>
             </div>
             <p>Don't have an account ? SignUp</p>
